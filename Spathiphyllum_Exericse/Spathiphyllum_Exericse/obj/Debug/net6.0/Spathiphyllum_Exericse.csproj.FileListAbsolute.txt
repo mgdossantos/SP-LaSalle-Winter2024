@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\Spathiphyllum_Exericse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\Spathiphyllum_Exericse.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\Spathiphyllum_Exericse.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\Spathiphyllum_Exericse.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\bin\Debug\net6.0\Spathiphyllum_Exericse.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\bin\Debug\net6.0\Spathiphyllum_Exericse.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\bin\Debug\net6.0\Spathiphyllum_Exericse.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\bin\Debug\net6.0\Spathiphyllum_Exericse.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\bin\Debug\net6.0\Spathiphyllum_Exericse.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\Spathiphyllum_Exericse.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\refint\Spathiphyllum_Exericse.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\Spathiphyllum_Exericse.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\Spathiphyllum_Exericse.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Spathiphyllum_Exericse\Spathiphyllum_Exericse\obj\Debug\net6.0\ref\Spathiphyllum_Exericse.dll

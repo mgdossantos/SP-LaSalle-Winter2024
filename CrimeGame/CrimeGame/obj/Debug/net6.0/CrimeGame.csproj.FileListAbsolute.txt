@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\CrimeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\CrimeGame.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\CrimeGame.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\CrimeGame.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\bin\Debug\net6.0\CrimeGame.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\bin\Debug\net6.0\CrimeGame.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\bin\Debug\net6.0\CrimeGame.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\bin\Debug\net6.0\CrimeGame.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\bin\Debug\net6.0\CrimeGame.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\CrimeGame.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\refint\CrimeGame.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\CrimeGame.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\CrimeGame.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CrimeGame\CrimeGame\obj\Debug\net6.0\ref\CrimeGame.dll
