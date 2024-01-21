@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\bin\Debug\net6.0\PredecessorSucessor.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\bin\Debug\net6.0\PredecessorSucessor.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\bin\Debug\net6.0\PredecessorSucessor.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\bin\Debug\net6.0\PredecessorSucessor.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\bin\Debug\net6.0\PredecessorSucessor.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\PredecessorSucessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\PredecessorSucessor.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\PredecessorSucessor.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\PredecessorSucessor.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\PredecessorSucessor.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\refint\PredecessorSucessor.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\PredecessorSucessor.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\PredecessorSucessor.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PredecessorSucessor\PredecessorSucessor\obj\Debug\net6.0\ref\PredecessorSucessor.dll

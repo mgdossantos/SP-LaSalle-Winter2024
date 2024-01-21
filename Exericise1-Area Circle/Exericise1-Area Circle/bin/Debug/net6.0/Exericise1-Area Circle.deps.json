@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exericise1-Area Circle/1.0.0": {
+        "runtime": {
+          "Exericise1-Area Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exericise1-Area Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
