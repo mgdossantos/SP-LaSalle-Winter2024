@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.AssemblyInfo.cs
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.exe
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.deps.json
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.runtimeconfig.json
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.dll
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\bin\Debug\net6.0\InputOutput.pdb
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.dll
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\refint\InputOutput.dll
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.pdb
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\InputOutput.genruntimeconfig.cache
+C:\Users\tchel\Documents\teacher\C#\codes\InputOutput\InputOutput\obj\Debug\net6.0\ref\InputOutput.dll
