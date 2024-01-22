@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\bin\Debug\net6.0\GradeConcept.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\bin\Debug\net6.0\GradeConcept.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\bin\Debug\net6.0\GradeConcept.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\bin\Debug\net6.0\GradeConcept.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\bin\Debug\net6.0\GradeConcept.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\GradeConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\GradeConcept.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\GradeConcept.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\GradeConcept.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\GradeConcept.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\refint\GradeConcept.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\GradeConcept.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\GradeConcept.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\GradeConcept\GradeConcept\obj\Debug\net6.0\ref\GradeConcept.dll

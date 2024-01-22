@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeConcept", "GradeConcept\GradeConcept.csproj", "{199B86E4-977E-49E9-B88F-5F044D8BFEE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199B86E4-977E-49E9-B88F-5F044D8BFEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199B86E4-977E-49E9-B88F-5F044D8BFEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199B86E4-977E-49E9-B88F-5F044D8BFEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199B86E4-977E-49E9-B88F-5F044D8BFEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11985304-4B58-4EA6-8ED1-512FA876A017}
+	EndGlobalSection
+EndGlobal
