@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\bin\Debug\net6.0\CheckNumber2.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\bin\Debug\net6.0\CheckNumber2.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\bin\Debug\net6.0\CheckNumber2.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\bin\Debug\net6.0\CheckNumber2.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\bin\Debug\net6.0\CheckNumber2.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\CheckNumber2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\CheckNumber2.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\CheckNumber2.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\CheckNumber2.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\CheckNumber2.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\refint\CheckNumber2.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\CheckNumber2.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\CheckNumber2.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CheckNumber2\CheckNumber2\obj\Debug\net6.0\ref\CheckNumber2.dll

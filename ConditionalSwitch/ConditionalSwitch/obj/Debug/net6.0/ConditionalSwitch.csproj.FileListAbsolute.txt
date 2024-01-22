@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\bin\Debug\net6.0\ConditionalSwitch.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\bin\Debug\net6.0\ConditionalSwitch.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\bin\Debug\net6.0\ConditionalSwitch.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\bin\Debug\net6.0\ConditionalSwitch.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\bin\Debug\net6.0\ConditionalSwitch.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\ConditionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\ConditionalSwitch.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\ConditionalSwitch.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\ConditionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\ConditionalSwitch.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\refint\ConditionalSwitch.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\ConditionalSwitch.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\ConditionalSwitch.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch\ConditionalSwitch\obj\Debug\net6.0\ref\ConditionalSwitch.dll
