@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\ATMProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\ATMProblem.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\ATMProblem.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\ATMProblem.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\bin\Debug\net6.0\ATMProblem.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\bin\Debug\net6.0\ATMProblem.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\bin\Debug\net6.0\ATMProblem.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\bin\Debug\net6.0\ATMProblem.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\bin\Debug\net6.0\ATMProblem.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\ATMProblem.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\refint\ATMProblem.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\ATMProblem.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\ATMProblem.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\ATMProblem\ATMProblem\obj\Debug\net6.0\ref\ATMProblem.dll

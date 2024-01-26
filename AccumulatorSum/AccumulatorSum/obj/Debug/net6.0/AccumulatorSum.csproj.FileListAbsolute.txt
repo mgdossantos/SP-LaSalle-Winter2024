@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\bin\Debug\net6.0\AccumulatorSum.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\bin\Debug\net6.0\AccumulatorSum.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\bin\Debug\net6.0\AccumulatorSum.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\bin\Debug\net6.0\AccumulatorSum.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\bin\Debug\net6.0\AccumulatorSum.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\AccumulatorSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\AccumulatorSum.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\AccumulatorSum.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\AccumulatorSum.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\AccumulatorSum.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\refint\AccumulatorSum.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\AccumulatorSum.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\AccumulatorSum.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AccumulatorSum\AccumulatorSum\obj\Debug\net6.0\ref\AccumulatorSum.dll

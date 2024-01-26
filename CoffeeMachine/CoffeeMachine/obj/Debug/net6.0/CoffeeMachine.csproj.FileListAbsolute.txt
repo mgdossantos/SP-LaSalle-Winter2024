@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\bin\Debug\net6.0\CoffeeMachine.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\bin\Debug\net6.0\CoffeeMachine.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\bin\Debug\net6.0\CoffeeMachine.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\bin\Debug\net6.0\CoffeeMachine.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\bin\Debug\net6.0\CoffeeMachine.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\CoffeeMachine.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\CoffeeMachine.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\refint\CoffeeMachine.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\CoffeeMachine.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\CoffeeMachine.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeeMachine\CoffeeMachine\obj\Debug\net6.0\ref\CoffeeMachine.dll
