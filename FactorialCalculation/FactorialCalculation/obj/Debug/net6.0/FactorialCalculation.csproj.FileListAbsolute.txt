@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\refint\FactorialCalculation.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FactorialCalculation\FactorialCalculation\obj\Debug\net6.0\ref\FactorialCalculation.dll

@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\bin\Debug\net6.0\MenuDrivenProgram.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\bin\Debug\net6.0\MenuDrivenProgram.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\bin\Debug\net6.0\MenuDrivenProgram.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\bin\Debug\net6.0\MenuDrivenProgram.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\bin\Debug\net6.0\MenuDrivenProgram.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\MenuDrivenProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\MenuDrivenProgram.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\MenuDrivenProgram.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\MenuDrivenProgram.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\MenuDrivenProgram.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\refint\MenuDrivenProgram.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\MenuDrivenProgram.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\MenuDrivenProgram.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\MenuDrivenProgram\MenuDrivenProgram\obj\Debug\net6.0\ref\MenuDrivenProgram.dll

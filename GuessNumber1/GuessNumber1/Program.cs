@@ -4,9 +4,11 @@ class Program
 {
     static void Main(String[] args)
     {
-        int secretNumber = 39;
+        int secretNumber;
         int userNumber=0;
-        
+
+        Random rnd = new Random();
+        secretNumber = rnd.Next(1,1001);
         while (userNumber!= secretNumber)
         {
             Console.WriteLine("Type a number: ");

@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\bin\Debug\net6.0\AverageGrades.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\bin\Debug\net6.0\AverageGrades.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\bin\Debug\net6.0\AverageGrades.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\bin\Debug\net6.0\AverageGrades.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\bin\Debug\net6.0\AverageGrades.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\AverageGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\AverageGrades.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\AverageGrades.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\AverageGrades.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\refint\AverageGrades.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\AverageGrades.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\AverageGrades.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\AverageGrades\AverageGrades\obj\Debug\net6.0\ref\AverageGrades.dll

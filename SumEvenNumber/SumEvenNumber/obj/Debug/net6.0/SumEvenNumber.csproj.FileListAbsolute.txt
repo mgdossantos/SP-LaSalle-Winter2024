@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\bin\Debug\net6.0\SumEvenNumber.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\bin\Debug\net6.0\SumEvenNumber.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\bin\Debug\net6.0\SumEvenNumber.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\bin\Debug\net6.0\SumEvenNumber.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\bin\Debug\net6.0\SumEvenNumber.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\SumEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\SumEvenNumber.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\SumEvenNumber.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\SumEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\SumEvenNumber.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\refint\SumEvenNumber.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\SumEvenNumber.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\SumEvenNumber.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\SumEvenNumber\SumEvenNumber\obj\Debug\net6.0\ref\SumEvenNumber.dll

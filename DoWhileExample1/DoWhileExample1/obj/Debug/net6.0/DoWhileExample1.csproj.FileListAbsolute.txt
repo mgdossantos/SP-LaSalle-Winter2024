@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\DoWhileExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\DoWhileExample1.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\DoWhileExample1.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\DoWhileExample1.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\bin\Debug\net6.0\DoWhileExample1.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\bin\Debug\net6.0\DoWhileExample1.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\bin\Debug\net6.0\DoWhileExample1.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\bin\Debug\net6.0\DoWhileExample1.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\bin\Debug\net6.0\DoWhileExample1.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\DoWhileExample1.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\refint\DoWhileExample1.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\DoWhileExample1.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\DoWhileExample1.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhileExample1\DoWhileExample1\obj\Debug\net6.0\ref\DoWhileExample1.dll

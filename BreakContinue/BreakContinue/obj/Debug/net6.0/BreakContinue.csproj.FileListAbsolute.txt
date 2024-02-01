@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\bin\Debug\net6.0\BreakContinue.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\bin\Debug\net6.0\BreakContinue.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\bin\Debug\net6.0\BreakContinue.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\bin\Debug\net6.0\BreakContinue.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\bin\Debug\net6.0\BreakContinue.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\BreakContinue.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\BreakContinue.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\BreakContinue.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\refint\BreakContinue.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\BreakContinue.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\BreakContinue.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\BreakContinue\BreakContinue\obj\Debug\net6.0\ref\BreakContinue.dll
