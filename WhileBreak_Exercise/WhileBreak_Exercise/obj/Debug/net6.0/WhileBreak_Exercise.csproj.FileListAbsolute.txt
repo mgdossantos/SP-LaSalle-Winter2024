@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\bin\Debug\net6.0\WhileBreak_Exercise.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\bin\Debug\net6.0\WhileBreak_Exercise.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\bin\Debug\net6.0\WhileBreak_Exercise.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\bin\Debug\net6.0\WhileBreak_Exercise.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\bin\Debug\net6.0\WhileBreak_Exercise.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\WhileBreak_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\WhileBreak_Exercise.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\WhileBreak_Exercise.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\WhileBreak_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\WhileBreak_Exercise.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\refint\WhileBreak_Exercise.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\WhileBreak_Exercise.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\WhileBreak_Exercise.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\WhileBreak_Exercise\WhileBreak_Exercise\obj\Debug\net6.0\ref\WhileBreak_Exercise.dll

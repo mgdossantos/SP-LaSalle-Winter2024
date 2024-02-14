@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\bin\Debug\net6.0\PomodoroTimer.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\bin\Debug\net6.0\PomodoroTimer.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\bin\Debug\net6.0\PomodoroTimer.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\bin\Debug\net6.0\PomodoroTimer.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\bin\Debug\net6.0\PomodoroTimer.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\PomodoroTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\PomodoroTimer.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\PomodoroTimer.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\PomodoroTimer.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\PomodoroTimer.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\refint\PomodoroTimer.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\PomodoroTimer.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\PomodoroTimer.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\PomodoroTimer\PomodoroTimer\obj\Debug\net6.0\ref\PomodoroTimer.dll

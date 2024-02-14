@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\bin\Debug\net6.0\EmailBoxZero.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\bin\Debug\net6.0\EmailBoxZero.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\bin\Debug\net6.0\EmailBoxZero.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\bin\Debug\net6.0\EmailBoxZero.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\bin\Debug\net6.0\EmailBoxZero.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\EmailBoxZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\EmailBoxZero.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\EmailBoxZero.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\EmailBoxZero.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\EmailBoxZero.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\refint\EmailBoxZero.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\EmailBoxZero.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\EmailBoxZero.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EmailBoxZero\EmailBoxZero\obj\Debug\net6.0\ref\EmailBoxZero.dll
