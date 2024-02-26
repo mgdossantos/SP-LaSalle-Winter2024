@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\bin\Debug\net6.0\EightArrayExercises.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\bin\Debug\net6.0\EightArrayExercises.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\bin\Debug\net6.0\EightArrayExercises.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\bin\Debug\net6.0\EightArrayExercises.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\bin\Debug\net6.0\EightArrayExercises.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\EightArrayExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\EightArrayExercises.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\EightArrayExercises.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\EightArrayExercises.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\EightArrayExercises.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\refint\EightArrayExercises.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\EightArrayExercises.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\EightArrayExercises.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\EightArrayExercises\EightArrayExercises\obj\Debug\net6.0\ref\EightArrayExercises.dll

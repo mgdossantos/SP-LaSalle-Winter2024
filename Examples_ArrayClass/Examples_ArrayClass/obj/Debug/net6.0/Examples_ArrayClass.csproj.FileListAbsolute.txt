@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\bin\Debug\net6.0\Examples_ArrayClass.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\bin\Debug\net6.0\Examples_ArrayClass.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\bin\Debug\net6.0\Examples_ArrayClass.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\bin\Debug\net6.0\Examples_ArrayClass.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\bin\Debug\net6.0\Examples_ArrayClass.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\Examples_ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\Examples_ArrayClass.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\Examples_ArrayClass.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\Examples_ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\Examples_ArrayClass.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\refint\Examples_ArrayClass.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\Examples_ArrayClass.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\Examples_ArrayClass.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Examples_ArrayClass\Examples_ArrayClass\obj\Debug\net6.0\ref\Examples_ArrayClass.dll
