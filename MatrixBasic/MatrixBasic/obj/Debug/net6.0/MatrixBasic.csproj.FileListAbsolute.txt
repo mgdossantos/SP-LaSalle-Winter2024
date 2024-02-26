@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\bin\Debug\net6.0\MatrixBasic.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\bin\Debug\net6.0\MatrixBasic.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\bin\Debug\net6.0\MatrixBasic.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\bin\Debug\net6.0\MatrixBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\bin\Debug\net6.0\MatrixBasic.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\MatrixBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\MatrixBasic.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\MatrixBasic.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\MatrixBasic.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\MatrixBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\refint\MatrixBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\MatrixBasic.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\MatrixBasic.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MatrixBasic\MatrixBasic\obj\Debug\net6.0\ref\MatrixBasic.dll

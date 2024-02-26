@@ -132,7 +132,29 @@ class Program
                     // A palindrome is a word, number, phrase, or " +
                     // other sequence of symbols that reads the " +
                     // same backwards as forwards, such as madam or racecar,"
+                    string[] word = { "m", "a", "d", "a", "m" };
+                    string wordf="", wordb="";
                     
+                    for(int i = 0; i < word.Length; i++)
+                    {
+                        wordf= wordf + word[i];
+                        
+                    }
+
+                    for (int i = word.Length-1; i >-1; i--)
+                    {
+                        wordb = wordb + word[i];
+
+                    }
+                    if (wordf==wordb)
+                    {
+                        Console.WriteLine("The word: " + String.Join("",word) + " is a palindrome!");
+                    }
+
+                    else
+                    {
+                        Console.WriteLine("The word: " + String.Join("", word) + " is NOT a palindrome!");
+                    }
                     break;
             }
         }
