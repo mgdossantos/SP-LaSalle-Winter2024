@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\bin\Debug\net6.0\CoffeShop.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\bin\Debug\net6.0\CoffeShop.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\bin\Debug\net6.0\CoffeShop.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\bin\Debug\net6.0\CoffeShop.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\bin\Debug\net6.0\CoffeShop.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\CoffeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\CoffeShop.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\CoffeShop.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\CoffeShop.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\CoffeShop.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\refint\CoffeShop.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\CoffeShop.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\CoffeShop.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\CoffeShop\CoffeShop\obj\Debug\net6.0\ref\CoffeShop.dll
