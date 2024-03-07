@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\bin\Debug\net6.0\Coin_Functions.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\bin\Debug\net6.0\Coin_Functions.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\bin\Debug\net6.0\Coin_Functions.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\bin\Debug\net6.0\Coin_Functions.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\bin\Debug\net6.0\Coin_Functions.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\Coin_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\Coin_Functions.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\Coin_Functions.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\Coin_Functions.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\Coin_Functions.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\refint\Coin_Functions.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\Coin_Functions.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\Coin_Functions.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Coin_Functions\Coin_Functions\obj\Debug\net6.0\ref\Coin_Functions.dll

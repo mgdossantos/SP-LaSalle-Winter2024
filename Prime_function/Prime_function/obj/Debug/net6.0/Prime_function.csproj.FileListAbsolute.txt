@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\bin\Debug\net6.0\Prime_function.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\bin\Debug\net6.0\Prime_function.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\bin\Debug\net6.0\Prime_function.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\bin\Debug\net6.0\Prime_function.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\bin\Debug\net6.0\Prime_function.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\Prime_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\Prime_function.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\Prime_function.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\Prime_function.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\Prime_function.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\refint\Prime_function.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\Prime_function.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\Prime_function.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Prime_function\Prime_function\obj\Debug\net6.0\ref\Prime_function.dll

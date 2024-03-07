@@ -2,15 +2,15 @@
 
 class Program
 {
-    static void positiveNegative(int n)
+    static char positiveNegative(int n)
     {
         if (n > 0)
         {
-            Console.WriteLine("positive");
+            return 'P';
         }
         else
         {
-            Console.WriteLine("negative");
+           return 'N';
         }
     }
 
@@ -24,13 +24,11 @@ class Program
     static void Main(string[] args)
     {
 
-
-        positiveNegative(inputNumber());
-        positiveNegative(inputNumber());
-        positiveNegative(inputNumber());
-        positiveNegative(inputNumber());
         int a = inputNumber();
         Console.WriteLine(a);
+        positiveNegative(a);
+       
+       
 
     }
 }

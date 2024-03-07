@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\bin\Debug\net6.0\Functions_ConvertHours.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\bin\Debug\net6.0\Functions_ConvertHours.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\bin\Debug\net6.0\Functions_ConvertHours.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\bin\Debug\net6.0\Functions_ConvertHours.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\bin\Debug\net6.0\Functions_ConvertHours.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\Functions_ConvertHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\Functions_ConvertHours.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\Functions_ConvertHours.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\Functions_ConvertHours.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\Functions_ConvertHours.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\refint\Functions_ConvertHours.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\Functions_ConvertHours.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\Functions_ConvertHours.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\Functions_ConvertHours\Functions_ConvertHours\obj\Debug\net6.0\ref\Functions_ConvertHours.dll
