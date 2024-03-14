@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\bin\Debug\net6.0\DoWhile - Mid Exam Question.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\bin\Debug\net6.0\DoWhile - Mid Exam Question.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\bin\Debug\net6.0\DoWhile - Mid Exam Question.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\bin\Debug\net6.0\DoWhile - Mid Exam Question.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\bin\Debug\net6.0\DoWhile - Mid Exam Question.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\DoWhile - Mid Exam Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\DoWhile - Mid Exam Question.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\DoWhile - Mid Exam Question.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\DoWhile - Mid Exam Question.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\DoWhile - Mid Exam Question.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\refint\DoWhile - Mid Exam Question.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\DoWhile - Mid Exam Question.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\DoWhile - Mid Exam Question.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\DoWhile - Mid Exam Question\DoWhile - Mid Exam Question\obj\Debug\net6.0\ref\DoWhile - Mid Exam Question.dll

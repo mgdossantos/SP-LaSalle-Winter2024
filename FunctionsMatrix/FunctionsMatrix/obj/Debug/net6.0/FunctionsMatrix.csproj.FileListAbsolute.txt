@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\bin\Debug\net6.0\FunctionsMatrix.exe
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\bin\Debug\net6.0\FunctionsMatrix.deps.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\bin\Debug\net6.0\FunctionsMatrix.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\bin\Debug\net6.0\FunctionsMatrix.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\bin\Debug\net6.0\FunctionsMatrix.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\FunctionsMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\FunctionsMatrix.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\FunctionsMatrix.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\FunctionsMatrix.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\FunctionsMatrix.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\refint\FunctionsMatrix.dll
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\FunctionsMatrix.pdb
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\FunctionsMatrix.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\SP-LaSalle-Winter2024\FunctionsMatrix\FunctionsMatrix\obj\Debug\net6.0\ref\FunctionsMatrix.dll
