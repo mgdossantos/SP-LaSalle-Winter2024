@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\bin\Debug\net6.0\StructCar_Exercise.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\bin\Debug\net6.0\StructCar_Exercise.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\bin\Debug\net6.0\StructCar_Exercise.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\bin\Debug\net6.0\StructCar_Exercise.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\bin\Debug\net6.0\StructCar_Exercise.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\StructCar_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\StructCar_Exercise.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\StructCar_Exercise.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\StructCar_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\StructCar_Exercise.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\refint\StructCar_Exercise.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\StructCar_Exercise.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\StructCar_Exercise.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructCar_Exercise\StructCar_Exercise\obj\Debug\net6.0\ref\StructCar_Exercise.dll
