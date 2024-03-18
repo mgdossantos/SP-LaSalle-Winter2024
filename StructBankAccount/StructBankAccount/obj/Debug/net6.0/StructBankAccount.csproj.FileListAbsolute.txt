@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\bin\Debug\net6.0\StructBankAccount.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\bin\Debug\net6.0\StructBankAccount.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\bin\Debug\net6.0\StructBankAccount.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\bin\Debug\net6.0\StructBankAccount.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\bin\Debug\net6.0\StructBankAccount.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\StructBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\StructBankAccount.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\StructBankAccount.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\StructBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\StructBankAccount.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\refint\StructBankAccount.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\StructBankAccount.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\StructBankAccount.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBankAccount\StructBankAccount\obj\Debug\net6.0\ref\StructBankAccount.dll
