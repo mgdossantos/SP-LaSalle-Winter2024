@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\bin\Debug\net6.0\ExampleStructsAndArrays.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\bin\Debug\net6.0\ExampleStructsAndArrays.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\bin\Debug\net6.0\ExampleStructsAndArrays.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\bin\Debug\net6.0\ExampleStructsAndArrays.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\bin\Debug\net6.0\ExampleStructsAndArrays.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\ExampleStructsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\ExampleStructsAndArrays.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\ExampleStructsAndArrays.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\ExampleStructsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\ExampleStructsAndArrays.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\refint\ExampleStructsAndArrays.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\ExampleStructsAndArrays.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\ExampleStructsAndArrays.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleStructsAndArrays\ExampleStructsAndArrays\obj\Debug\net6.0\ref\ExampleStructsAndArrays.dll
